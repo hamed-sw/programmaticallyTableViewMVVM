@@ -17,6 +17,7 @@
 		FAF02B3826A96F15002F3B4B /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF02B3726A96F15002F3B4B /* ViewModel.swift */; };
 		FAF02B3A26A96F25002F3B4B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF02B3926A96F25002F3B4B /* Model.swift */; };
 		FAF02B3C26A96F46002F3B4B /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF02B3B26A96F46002F3B4B /* NewsTableViewCell.swift */; };
+		FAF02B3E26A98444002F3B4B /* ViewModelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF02B3D26A98444002F3B4B /* ViewModelCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		FAF02B3726A96F15002F3B4B /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		FAF02B3926A96F25002F3B4B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		FAF02B3B26A96F46002F3B4B /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
+		FAF02B3D26A98444002F3B4B /* ViewModelCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				FAF02B3726A96F15002F3B4B /* ViewModel.swift */,
+				FAF02B3D26A98444002F3B4B /* ViewModelCell.swift */,
 			);
 			path = ModelView;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			files = (
 				FAF02B3826A96F15002F3B4B /* ViewModel.swift in Sources */,
 				FAF02B3C26A96F46002F3B4B /* NewsTableViewCell.swift in Sources */,
+				FAF02B3E26A98444002F3B4B /* ViewModelCell.swift in Sources */,
 				FAF02B2126A96E91002F3B4B /* ViewController.swift in Sources */,
 				FAF02B1D26A96E91002F3B4B /* AppDelegate.swift in Sources */,
 				FAF02B3A26A96F25002F3B4B /* Model.swift in Sources */,
